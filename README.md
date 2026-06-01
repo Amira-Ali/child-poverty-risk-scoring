@@ -69,6 +69,8 @@ Trend analysis using CiLIF data (2021/22–2024/25), with administrative validat
 
 ![Top 20 Emerging Risk Local Authorities](q4_top20_emerging_risk_las.png)
 
+![Risk Score vs Deterioration Slope](q4_scatter_risk_vs_slope.png)
+
 Administrative validation confirmed that 99.5% of worsening CiLIF areas also show rising PIP claims and 94.1% show rising UC claims, independently corroborating the model's identification of worklessness and health barriers as the primary drivers.
 
 ![Overlap Analysis](q4_overlap_analysis.png)
