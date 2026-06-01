@@ -67,8 +67,6 @@ Trend analysis using CiLIF data (2021/22–2024/25), with administrative validat
 
 **Q4 —** Over 60% of LSOAs experienced worsening child poverty trends between 2021/22 and 2024/25. Nearly 2,800 areas were classified as **Emerging Risk**. Deterioration was disproportionately concentrated in rural and semi-rural districts (e.g. Melton, Vale of White Horse, Fylde) — outside the traditional deprivation hotspots that attract policy attention.
 
-![Top 20 Emerging Risk Local Authorities](q4_top20_emerging_risk_las.png)
-
 ![Risk Score vs Deterioration Slope](q4_scatter_risk_vs_slope.png)
 
 Administrative validation confirmed that 99.5% of worsening CiLIF areas also show rising PIP claims and 94.1% show rising UC claims, independently corroborating the model's identification of worklessness and health barriers as the primary drivers.
