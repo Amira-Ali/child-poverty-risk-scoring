@@ -33,7 +33,7 @@ Trend analysis using CiLIF data (2021/22–2024/25), with administrative validat
 | Dataset | Source | Coverage |
 |---|---|---|
 | Index of Multiple Deprivation 2025 (IMD) | [gov.uk](https://www.gov.uk/government/statistics/english-indices-of-deprivation-2025) | All 33,755 English LSOAs |
-| Children in Low-Income Families (CiLIF) | DWP Stat-Xplore | 2021-2025, Output Area level |
+| Children in Low-Income Families (CiLIF) BHC Relative Low Income | [DWP Stat-Xplore](https://stat-xplore.dwp.gov.uk/) | 2021/22–2024/25, Output Area level |
 | Universal Credit Claimants | DWP Stat-Xplore | 2021–2025, LSOA level |
 | PIP Cases with Entitlement | DWP Stat-Xplore | 2021–2025, LSOA level |
 | Housing Benefit Claimants | DWP Stat-Xplore | 2021–2025, LSOA level |
@@ -59,13 +59,19 @@ Trend analysis using CiLIF data (2021/22–2024/25), with administrative validat
 
 **Q1 — Worklessness** is the dominant driver of child poverty risk, with an influence substantially greater than any other single factor. Low educational attainment, illness and disability, household overcrowding, and neighbourhood safety conditions are the next strongest contributors.
 
+![SHAP Feature Importance](SHAP.png)
+
 **Q2 —** The highest-risk neighbourhoods are concentrated in urban authorities including Hackney, Westminster, Blackpool, and Middlesbrough (all IMD decile 1).
 
 **Q3 —** Authorities such as Harrow and Wandsworth — which rank as moderately deprived overall — contain significant numbers of LSOAs with elevated predicted child poverty risk. These hidden-risk pockets would be missed by deprivation-targeted funding criteria.
 
 **Q4 —** Over 60% of LSOAs experienced worsening child poverty trends between 2021/22 and 2024/25. Nearly 2,800 areas were classified as **Emerging Risk**. Deterioration was disproportionately concentrated in rural and semi-rural districts (e.g. Melton, Vale of White Horse, Fylde) — outside the traditional deprivation hotspots that attract policy attention.
 
+![Top 20 Emerging Risk Local Authorities](q4_top20_emerging_risk_las.png)
+
 Administrative validation confirmed that 99.5% of worsening CiLIF areas also show rising PIP claims and 94.1% show rising UC claims, independently corroborating the model's identification of worklessness and health barriers as the primary drivers.
+
+![Overlap Analysis](q4_overlap_analysis.png)
 
 ---
 
