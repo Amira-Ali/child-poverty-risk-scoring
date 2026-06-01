@@ -33,7 +33,7 @@ Trend analysis using CiLIF data (2021/22–2024/25), with administrative validat
 | Dataset | Source | Coverage |
 |---|---|---|
 | Index of Multiple Deprivation 2025 (IMD) | [gov.uk](https://www.gov.uk/government/statistics/english-indices-of-deprivation-2025) | All 33,755 English LSOAs |
-| Children in Low-Income Families (CiLIF) BHC Relative Low Income | [DWP Stat-Xplore](https://stat-xplore.dwp.gov.uk/) | 2021/22–2024/25, Output Area level |
+| Children in Low-Income Families (CiLIF) | DWP Stat-Xplore | 2021–2025, Output Area level |
 | Universal Credit Claimants | DWP Stat-Xplore | 2021–2025, LSOA level |
 | PIP Cases with Entitlement | DWP Stat-Xplore | 2021–2025, LSOA level |
 | Housing Benefit Claimants | DWP Stat-Xplore | 2021–2025, LSOA level |
