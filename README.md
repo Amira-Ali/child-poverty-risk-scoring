@@ -1,5 +1,7 @@
 # Child Poverty Risk Scoring — England LSOAs
 
+**Amira Shlebik** [GitHub](https://github.com/Amira-Ali) | [Dashboard](https://public.tableau.com/views/idaci/IDACI?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
 Predicting child poverty risk across all 33,755 Lower Super Output Areas (LSOAs) in England using machine learning, SHAP interpretability, and longitudinal trend analysis.
 
 ---
@@ -107,8 +109,3 @@ joblib
 ```
 
 ---
-
-## Author
-
-**Amira Shlebik**
-[GitHub](https://github.com/Amira-Ali)
